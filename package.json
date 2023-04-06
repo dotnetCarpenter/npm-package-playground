@@ -1,0 +1,12 @@
+{
+  "name": "npm-package-playground",
+  "version": "1.0.0",
+  "description": "A place to try out stuff in package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Enviroment variable: $MY_VARIABLE\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "wtfpl"
+}
